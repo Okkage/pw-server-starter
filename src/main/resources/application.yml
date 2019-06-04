@@ -9,9 +9,9 @@ spring:
   # Database
   datasource:
     driverClassName: org.postgresql.Driver
-    url: jdbc:postgresql://ec2-54-246-92-116.eu-west-1.compute.amazonaws.com:5432/d2p13cu79mfhbp
-    username: xujycahtgzwuax
-    password: bb4ff96fb930fc3bfe99823cbd1518cace4bd8bf65d41151bf73adebc48ae2a1
+    url: jdbc:postgresql://ec2-54-75-230-253.eu-west-1.compute.amazonaws.com:5432/d2p13cu79mfhbp
+    username: bhwnbxiwojwrxx
+    password: 728c303c8cb1e8c84ecfc382a50dcd698bc934500b1319bdbeaa68fa5d4caa29
     hikari:
       poolName: Hikari
       
